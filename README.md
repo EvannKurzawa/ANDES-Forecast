@@ -8,7 +8,7 @@
 
 The pipeline performs end-to-end simulations from target selection to detectability forecasts. Major stages:
 
-(...)
+(filled soon)
 
 ---
 
@@ -26,7 +26,7 @@ If you use this framework or results from the associated publication, please cit
 > **Kurzawa Ferrandez, E., Bello-Arufe, A., & Hu, R. (2025)**  
 > *Detecting biosignatures on rocky habitable worlds with ELT/ANDES*,  
 > *The Astrophysical Journal (submitted soon)*.  
-> [Read the paper on arXiv](https://arxiv.org) submitted soon
+> [Read the paper on arXiv](https://arxiv.org) (submitted soon)
 
 ---
 
@@ -34,4 +34,4 @@ If you use this framework or results from the associated publication, please cit
 
 Evann Kurzawa  
 (Work initiated during a JVSRP at NASA Jet Propulsion Laboratory, Caltech)
-Email: <mailto:contact@evannkurzawa.com>
+Email: <contact@evannkurzawa.com>
