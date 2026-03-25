@@ -23,8 +23,8 @@ Codes, configuration files, and analysis notebooks will be added progressively o
 
 If you use this framework or results from the associated publication, please cite:
 
-> **Kurzawa Ferrandez, E., Bello-Arufe, A., & Hu, R. (2025)**  
-> *Detecting biosignatures on rocky habitable worlds with ELT/ANDES*,  
+> **Kurzawa-Ferrandez, E., Bello-Arufe, A., & Hu, R. (2025)**  
+> *Biosignature detectability on habitable worlds with ELT/ANDES*,  
 > *The Astrophysical Journal (submitted soon)*.  
 > [Read the paper on arXiv](https://arxiv.org) (submitted soon)
 
