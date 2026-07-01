@@ -6,7 +6,7 @@
 
 ## Repository scope
 
-This repository contains the core simulation and Bayesian-detection scripts used to produce the main results of *Kurzawa-Ferrandez et al. 2026*.
+This repository contains the core simulation and Bayesian-detection scripts used to produce the main results of *Kurzawa-Ferrandez et al. 2026*. This publication should be read for context on this repository.
 
 The public pipeline currently includes two main scripts:
 
