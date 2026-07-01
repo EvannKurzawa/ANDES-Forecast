@@ -6,7 +6,7 @@
 
 ## Pipeline scope and steps
 
-This repository contains the core simulation and Bayesian-detection scripts used to produce the main results of ***Kurzawa-Ferrandez et al. 2026***.
+This repository contains the core simulation and Bayesian-detection scripts used to produce the main results of *Kurzawa-Ferrandez et al. 2026*.
 
 The public pipeline currently includes two main scripts:
 
@@ -36,7 +36,7 @@ Some external inputs are therefore expected to be prepared in advance, including
 
 ## Installation and dependencies
 
-This repository is intended for research use and was developed in a local/cluster environment. The scripts are not currently packaged as an installable Python module. A typical setup requires Python 3 and the scientific Python ecosystem, together with several specialized astronomy and Bayesian-inference packages.
+This repository is intended for research use and was developed in a cluster environment. The scripts are not currently packaged as an installable Python module. A typical setup requires Python 3 and the scientific Python ecosystem, together with several specialized astronomy and Bayesian-inference packages.
 
 The main Python dependencies are:
 
