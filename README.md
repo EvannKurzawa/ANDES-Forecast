@@ -4,7 +4,15 @@
 
 ---
 
-## Repository scope
+## Context
+
+This repository accompanies the publication *Biosignature detectability on transiting habitable worlds with ELT/ANDES* by Evann Kurzawa-Ferrandez, Aaron Bello-Arufe, and Renyu Hu (2026), currently under review for *The Astronomical Journal*.
+
+The project explores how the next generation of ground-based telescopes could search for the chemical fingerprints of life in the atmospheres of nearby rocky worlds. Using simulated Earth-like transmission spectra, ANDES ETC-based noise estimates, cross-correlation functions, and Bayesian evidence analysis, the framework forecasts the number of transits required to detect H₂O, CO₂, CH₄, and O₂ with ELT/ANDES.
+
+This work was initiated in June 2024 during a JVSRP at NASA Jet Propulsion Laboratory, California Institute of Technology.
+
+## Pipeline
 
 This repository contains the core simulation and Bayesian-detection scripts used to produce the main results of *Kurzawa-Ferrandez et al. 2026*. This publication should be read for context on this repository.
 
