@@ -4,7 +4,7 @@
 
 ---
 
-## Pipeline scope and steps
+## Repository scope
 
 This repository contains the core simulation and Bayesian-detection scripts used to produce the main results of *Kurzawa-Ferrandez et al. 2026*.
 
