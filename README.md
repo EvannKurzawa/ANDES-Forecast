@@ -155,6 +155,9 @@ The six exposure labels used in the current implementation correspond to cumulat
 
 The public scripts generate and analyze the core CCF and Bayesian-evidence products, but they do not automatically reproduce every table, figure, target-selection step, convergence diagnostic, or comparison run shown in the paper.
 
+Note:
+The public versions of these scripts have been cleaned/simplified for release. Some internal sanity checks, debugging routines, error-searching utilities, convergence diagnostics, and cluster-specific safeguards used during the full analysis have been removed. As a result, future modifications or incorrect inputs may fail silently or produce misleading outputs if the expected files, directory structure, units, or runtime environment are not respected. Users are encouraged to inspect intermediate products carefully and add their own validation checks when adapting the pipeline.
+
 ---
 
 ## Reference
