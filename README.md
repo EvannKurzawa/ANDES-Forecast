@@ -1,6 +1,6 @@
 # ANDES-Forecast
 
-**Forecasting the detectability of atmospheric molecules on rocky exoplanets with ELT/ANDES**
+**Forecasting the search for biosignatures on habitable rocky worlds with ELT/ANDES**
 
 ---
 
